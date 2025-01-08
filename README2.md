@@ -21,7 +21,7 @@
        * Melakukan konfigurasi default gateway pada enp0s3 dengan IP 192.168.56.110
    
       **Verifikasi konfigurasi default gateway**
-       ![image](https://github.com/user-attachments/assets/2c41afee-07ad-4cdc-acc3-a162cb82b9c7)
+       ![image](https://github.com/user-attachments/assets/2c41afee-07ad-4cdc-acc3-a162cb82b9c7)       
        * Menampilkan default gateway yang ada pada antarmuka jaringan. Penambahan default gateway sebelumnya berhasil dilakukan 
          ditandai dengan masuknya gateway tambahan pada daftar yaitu 192.168.56.110
    
@@ -42,6 +42,16 @@
                    Netmask	: 255.255.255.0
                    Gateway	: 10.25.1.1
    
-     ![image](https://github.com/user-attachments/assets/0867ad6a-fad8-4d3f-8b34-3bfbb2615e31)
+     ![image](https://github.com/user-attachments/assets/0867ad6a-fad8-4d3f-8b34-3bfbb2615e31)   
      * Mengaktifkan kembali enp0s3 dengan ifup kemudian antarmuka enp0s3 sudah terkonfigurasi sesuai dengan konfigurasi yang    
-       dilakukan sebelumnya. 
+       dilakukan sebelumnya.
+       
+6. PERCOBAAN DNS
+   Konfigurasi DNS diperlukan untuk melakukan translasi dari alamat domain menjadi sebuah alamat IP. Konfigurasi DNS secara teknis 
+   dituliskan kedalam /etc/resolv.conf. namun pada percobaan kali ini kita memanfaatkan file yang terdapat pada /etc/network/interfaces 
+   untuk melakukan konfigurasi DNS 
+
+
+
+
+
