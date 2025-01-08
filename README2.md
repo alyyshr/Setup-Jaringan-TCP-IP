@@ -14,7 +14,7 @@
       ![image](https://github.com/user-attachments/assets/f6d78420-5a09-4cf9-a521-94575ff7f16d)
       * Tampilan detail antarmuka enp0s3 yang telah dilakukan konfigurasi IP Address sebelumnya.
    
-      **Konfigurasi default gateway**
+      **Konfigurasi default gateway**          
        Untuk melakukan konfigurasi gateway, dapat menggunakan perintah route dan melakukan konfigurasi alamat gateway sesuai dengan 
        kebutuhan jaringan yang diinginkan.
        ![image](https://github.com/user-attachments/assets/89d29425-6467-4444-ba1d-79e5ae07006c)
@@ -28,6 +28,7 @@
       **Konfigurasi Dynamic IP Address Assignment**
         ![image](https://github.com/user-attachments/assets/d4dcf615-8f13-47fd-85cc-25ba08e13603)
         ![image](https://github.com/user-attachments/assets/505ddb47-984d-4325-95cd-efd1c657d060)
+
         * Lakukan konfigurasi interface pada enp0s3 menjadi dhcp.
 
    ![image](https://github.com/user-attachments/assets/e6d6f2be-0bee-40eb-a043-028d18e24795)
