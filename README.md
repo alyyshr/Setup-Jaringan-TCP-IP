@@ -63,6 +63,7 @@
          collisions	: jumlah tabrakan paket.
 
 5. PENGALAMATAN IP & DNS
+   
    A. Percobaan Pengalamatan IP
       Percobaan tersebut dilakukan untuk melakukan konfigurasi alamat IP pada sistem dan default gateway agar sistem dapat berkomunikasi pada jaringan area lokal maupun Internet.
    
@@ -73,7 +74,7 @@
             Netmask	    : 255.255.255.0
    
        b. Verifikasi konfigurasi alamat IP
-          ![image](https://github.com/user-attachments/assets/77575a9b-c919-4d1b-990d-48df78da87b8)
+          ![image](https://github.com/user-attachments/assets/85771040-505c-48db-b20c-e3d4ac8afb80)
           * Tampilan detail antarmuka enp0s3 yang telah dilakukan konfigurasi IP Address sebelumnya.
    
        c. Konfigurasi default gateway
