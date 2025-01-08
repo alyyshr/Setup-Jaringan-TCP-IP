@@ -13,6 +13,13 @@
     ![image](https://github.com/user-attachments/assets/3845df37-4927-4c04-9a62-493f64eb57c0)
     * Perintah lshw digunakan untuk menampilkan detail antarmuka linux yang kita gunakan, mulai dari merk produk hingga kapabilitas yang dimiliki antarmuka.
 
+    ![image](https://github.com/user-attachments/assets/a5ff6458-529d-49f9-b1bc-eb0aff1813fb)
+    ![image](https://github.com/user-attachments/assets/fbddaa7a-b41f-4f09-8808-8e152abe67c5)
+    * Aplikasi ethtool dapat digunakan untuk menampilkan dan mengkonfigurasi antarmuka Ethernet seperti auto-negotiation, kecepatan antarmuka Ethernet, duplex mode, dan Wake on-LAN.
+    * Melakukan instalasi ethtool terlebih dahulu karena aplikasi ethtool belum ditemukan. Dan gambar tersebut aplikasi ethool telah terinstall dan siap digunakan.
+      
+
+
     
 
       
