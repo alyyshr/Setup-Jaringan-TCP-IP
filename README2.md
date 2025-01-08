@@ -2,9 +2,10 @@
    
    Percobaan Pengalamatan IP
       Percobaan tersebut dilakukan untuk melakukan konfigurasi alamat IP pada sistem dan default gateway agar sistem dapat berkomunikasi        pada jaringan area lokal maupun Internet.
+   
       Konfigurasi IP address sementara
-         ![image](https://github.com/user-attachments/assets/cd6a4b41-54f7-40d7-9c06-8220ab221110)
-         * Melakukan konfigurasi alamat IP antarmuka jaringan enp0s3, dengan detail :
+      ![image](https://github.com/user-attachments/assets/cd6a4b41-54f7-40d7-9c06-8220ab221110)
+      * Melakukan konfigurasi alamat IP antarmuka jaringan enp0s3, dengan detail :
             IP Address	: 192.168.56.29
             Netmask	    : 255.255.255.0
    
