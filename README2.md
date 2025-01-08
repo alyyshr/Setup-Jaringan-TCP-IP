@@ -1,6 +1,6 @@
 5. PENGALAMATAN IP & DNS
    
-   A. Percobaan Pengalamatan IP
+   Percobaan Pengalamatan IP
       Percobaan tersebut dilakukan untuk melakukan konfigurasi alamat IP pada sistem dan default gateway agar sistem dapat berkomunikasi        pada jaringan area lokal maupun Internet.
       Konfigurasi IP address sementara
          ![image](https://github.com/user-attachments/assets/cd6a4b41-54f7-40d7-9c06-8220ab221110)
