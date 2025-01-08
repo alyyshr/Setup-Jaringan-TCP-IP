@@ -46,10 +46,22 @@
      * Mengaktifkan kembali enp0s3 dengan ifup kemudian antarmuka enp0s3 sudah terkonfigurasi sesuai dengan konfigurasi yang    
        dilakukan sebelumnya.
        
-6. PERCOBAAN DNS
+6. PERCOBAAN DNS       
    Konfigurasi DNS diperlukan untuk melakukan translasi dari alamat domain menjadi sebuah alamat IP. Konfigurasi DNS secara teknis 
    dituliskan kedalam /etc/resolv.conf. namun pada percobaan kali ini kita memanfaatkan file yang terdapat pada /etc/network/interfaces 
-   untuk melakukan konfigurasi DNS 
+   untuk melakukan konfigurasi DNS.
+   
+   **Konfigurasi DNS**
+   Perintah untuk melakukan percobaan DNS dilakukan dengan melakukan edit melalui aplikasi nano pada file /etc/network /interfaces
+   ![image](https://github.com/user-attachments/assets/49078ef4-e6ee-404a-b331-2956d7cbc2a4)
+   ![image](https://github.com/user-attachments/assets/fc87fe1e-3e44-446d-befa-5c47e33d989c)
+   * Melakukan konfigurasi static pada antarmuka enp0s3 seperti pada gambar diatas.
+
+   ![image](https://github.com/user-attachments/assets/7daa6290-f9a7-406c-ab4b-f39f91ff41ae)
+   * Gunakan perintah seperti pada gambar diatas untuk mengetahui konfigurasi DNS telah dilakukan dengan benar.  
+
+
+
 
 
 
